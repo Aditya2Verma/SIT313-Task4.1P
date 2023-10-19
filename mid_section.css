@@ -1,0 +1,16 @@
+.midsection{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+}
+
+.midsection p{
+    border: 2px solid grey;
+    background-color: white;
+    border-radius: 35px;
+    padding: 15px;
+    cursor: pointer;
+    color: black;
+}

@@ -1,0 +1,32 @@
+
+.column div {
+    display: flex;
+    /* flex-direction:; */
+    align-items: center;
+}
+
+.column div p {
+    margin: 10px;
+}
+
+body{
+    color: whitesmoke;
+}
+.row{
+
+    display:flex;
+    /* align-items: center; */
+    justify-content: center;
+    align-items: center;
+    margin-left: 180px;
+    
+}
+
+
+
+.column{
+    padding-top: 30px;
+    flex:33.33%
+}
+
+ 
